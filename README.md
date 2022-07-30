@@ -5,8 +5,6 @@
 ### Tampilan Hasil Crack
 ![deskripsi gambar](https://i.ibb.co/kh3JQSB/Screenshot-2022-07-19-23-45-48-956-com-termux.png)
 ## Cara Install
-Download Aplikasi Termux Versi Terbaru👉
-[Download Termux](https://f-droid.org/repo/com.termux_117.apk)👈
 ```
 $ cd
 $ pkg update && pkg upgrade
