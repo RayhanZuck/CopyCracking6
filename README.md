@@ -6,21 +6,20 @@
 ![deskripsi gambar](https://i.ibb.co/kh3JQSB/Screenshot-2022-07-19-23-45-48-956-com-termux.png)
 ## Cara Install
 ```
-$ cd
 $ pkg update && pkg upgrade
-$ pkg install python git
+$ pkg install python
 $ pkg install play-audio
+$ pkg install git
 $ pip install requests mechanize
 $ pip install rich bs4
 $ pip install stdiomask
-$ pip install --upgrade pip
 $ git clone https://github.com/RayhanZuck/CopyCracking6
 $ cd CopyCracking6
 $ python mom.py
 ```
 ## Cara Update
 ```
-$ cd BUcracking6
+$ cd CopyCracking6
 $ git pull
 $ python mom.py
 ```
