@@ -4,6 +4,8 @@
 ![deskripsi gambar](https://i.ibb.co/nzrNY3n/Screenshot-2022-07-19-15-07-30-575-com-termux.png)
 ### Tampilan Hasil Crack
 ![deskripsi gambar](https://i.ibb.co/kh3JQSB/Screenshot-2022-07-19-23-45-48-956-com-termux.png)
+## Login Via
+```Cookies Facebook```
 ## Cara Install
 ```
 $ pkg update && pkg upgrade
